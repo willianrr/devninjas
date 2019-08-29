@@ -1,0 +1,23 @@
+.App {
+  color:red;
+  background-color: #4899ff;
+  height: 100vh;
+  padding: 1rem;
+}
+.logo {
+  width: 180px;
+}
+.menu {
+  display: flex;
+  padding-top: 1rem;
+}
+.menu-list {
+  align-self: center;
+  justify-content: end;
+  display: grid;
+  width: 100%;
+  padding-top: 2.5rem;
+  color: #c3deff;
+  font-weight: 400;
+  font-size: 17px;
+}
